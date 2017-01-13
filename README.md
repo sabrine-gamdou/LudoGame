@@ -7,7 +7,7 @@ The program starts with 3 successive selector screens that allow the user to cho
 Next, a Ludo board is generated according the user’s settings and the game starts with the yellow player (if active) or the next active player following a clockwise order.
 
 
-2.-Implementation
+2.- Implementation
 
 This application comprises 13 classes, which can be arranged by functionality in 5 different groups:
 - Control/support (Main, ImgPath, GameState),
